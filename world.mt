@@ -1,0 +1,17 @@
+enable_damage = true
+creative_mode = false
+mod_storage_backend = sqlite3
+auth_backend = sqlite3
+backend = sqlite3
+player_backend = sqlite3
+gameid = asuna
+world_name = holesoflove
+server_announce = false
+load_mod_xnether = mods/xnether
+load_mod_nether = mods/nether
+load_mod_sum_airship = mods/sum_airship
+load_mod_stairs = mods/stairs
+load_mod_moreblocks = mods/moreblocks
+load_mod_rope_bridges = mods/rope_bridges
+load_mod_i3 = mods/i3
+load_mod_cleaner = mods/cleaner
